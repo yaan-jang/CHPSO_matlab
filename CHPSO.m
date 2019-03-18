@@ -5,7 +5,7 @@ clc;clear all;close all
 % % Summary:                                                              %
 % % ===================================================================== %
 % %       Author: Ngaam J. Cheung                                         %
-% %        Email: nyaam.ch@gmail.com                                      %
+% %        Email: yaan.jang@gmail.com                                     %
 % %      Release: 1.2                                                     %
 % % Release Date: June 9, 2013.                                           %
 % % ===================================================================== %
